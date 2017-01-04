@@ -1,3 +1,7 @@
+## This is a temporary fork! 
+
+Please do not use this fork, it is a stopgap solution and will be removed as soon as the source project supports a required feature.
+
 # image-diff [![Build Status](https://travis-ci.org/uber/image-diff.svg?branch=master)](https://travis-ci.org/uber/image-diff)
 
 Create image differential between two images
